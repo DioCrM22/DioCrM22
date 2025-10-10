@@ -12,7 +12,7 @@ A plataforma foi projetada para atender **treinadores, nutricionistas** e també
 
 📍 São Paulo, SP  
 📧 **diogocrmaia03@gmail.com**  
-💼 [LinkedIn - Diogo Cruz Maia](https://www.linkedin.com/in/diogo-maia-30585b230)  
+💼 **[LinkedIn - Diogo Cruz Maia](https://www.linkedin.com/in/diogo-maia-30585b230)**  
 
 ---
 
