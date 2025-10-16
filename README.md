@@ -25,9 +25,10 @@ A plataforma foi projetada para atender **treinadores, nutricionistas** e també
 ## 🚀 Projetos em destaque
 
 - [**THORCFIT**](https://github.com/DioCrM22/THORCFIT) — Aplicação web para gerenciamento de treinos e nutrição, com cadastro, planejamento e relatórios para treinadores, nutricionistas e usuários independentes.
-- **Dashboard interativo desenvolvido como projeto final do curso de SQL para Análise de Dados: Do básico ao avançado**
+- [**VENDAS-LEADS-ANALYTICS**](https://github.com/DioCrM22/vendas-leads-analytics) — **Dashboard interativo desenvolvido como projeto final do curso de SQL para Análise de Dados: Do básico ao avançado**
 **Criado por Midori Toyota pela plataforma Udemy**
   [Link do projeto: Clique aqui 🚩](https://vendas-leads-analytics-cua6s2rsk8eapc5cudzmiz.streamlit.app/)
+- [**GAME-SHOW**](https://github.com/DioCrM22/Game-Show) — Uma arena de batalha épica onde heróis se enfrentam em combates por turnos. Escolha seu campeão, planeje ataques, gerencie precisão, esquiva e defesa e conquiste o título de campeão da arena.
 - _(Em breve, mais projetos serão adicionados...)_
 
 ---
