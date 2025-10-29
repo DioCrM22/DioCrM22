@@ -29,6 +29,7 @@ A plataforma foi projetada para atender **treinadores, nutricionistas** e també
 **Criado por Midori Toyota pela plataforma Udemy**
   [Link do projeto: Clique aqui 🚩](https://vendas-leads-analytics-cua6s2rsk8eapc5cudzmiz.streamlit.app/)
 - [**GAME-SHOW**](https://github.com/DioCrM22/Game-Show) — Uma arena de batalha épica onde heróis se enfrentam em combates por turnos. Escolha seu campeão, planeje ataques, gerencie precisão, esquiva e defesa e conquiste o título de campeão da arena.
+- [**PRIME-FLIX**](https://github.com/DioCrM22/Prime-Flix) — Aplicação web desenvolvida em React.js, que consome a API do TMDB (The Movie Database) para exibir os filmes em cartaz com um design moderno e responsivo.
 - _(Em breve, mais projetos serão adicionados...)_
 
 ---
